@@ -2,3 +2,6 @@
 	path = tax-flow
 	url = https://github.com/ced-2017-capstone/tax-flow
 	branch = master
+[submodule "LuxChain"]
+	path = LuxChain
+	url = https://github.com/archatul/LuxChain
