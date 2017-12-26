@@ -5,3 +5,7 @@
 [submodule "LuxChain"]
 	path = LuxChain
 	url = https://github.com/archatul/LuxChain
+[submodule "ced-capstone"]
+	path = ced-capstone
+	url = https://github.com/redhio/ced-capstone
+	branch = master
