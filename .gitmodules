@@ -9,3 +9,7 @@
 	path = ced-capstone
 	url = https://github.com/redhio/ced-capstone
 	branch = master
+[submodule "Homeward"]
+	path = Homeward
+	url = https://github.com/shaguftasayani/Homeward
+	branch = master
