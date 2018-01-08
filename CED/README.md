@@ -93,7 +93,7 @@ Ester egg distance of walk execsise(1 KM per egg).
 surprise egg distance of walk execsise(1 KM per egg).
 
 evolve rules for smart contract 1: 
-![Worklfow](/DAPP/IMG_2238.JPG)
+![LINK8](/DAPP/IMG_2238.JPG)
  
 Dinosaur egg + Dinosaur can evolve to new type Dinosaur 
 Ester egg + Easter Bunny can evolve to new type Bunny
