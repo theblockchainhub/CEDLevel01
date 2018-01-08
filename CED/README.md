@@ -61,13 +61,13 @@ Occasionally the metemask page displays a lock screen. This happens because Meta
 As a new user log on, you can only see the youngest wonder egg descrption and currently total wonder egg puppy on block chain.
 Please feel free to create your own wonder egg /puppy because it is free now.
  
-![LINK1](/DAPP/web/pic/1.jpg)
-![LINK2](/DAPP/web/pic/2.jpg)
-![LINK3](/DAPP/web/pic/3.jpg)
-![LINK4](/DAPP/web/pic/4.jpg)
-![LINK5](/DAPP/web/pic/5.jpg)
-![LINK6](/DAPP/web/pic/6.jpg)
-![LINK7](/DAPP/web/pic/7.jpg)
+![LINK1](./DAPP/web/pic/1.jpg)
+![LINK2](./DAPP/web/pic/2.jpg)
+![LINK3](./DAPP/web/pic/3.jpg)
+![LINK4](./DAPP/web/pic/4.jpg)
+![LINK5](./DAPP/web/pic/5.jpg)
+![LINK6](./DAPP/web/pic/6.jpg)
+![LINK7](./DAPP/web/pic/7.jpg)
 
 Roadmap:
 
@@ -93,7 +93,7 @@ Ester egg distance of walk execsise(1 KM per egg).
 surprise egg distance of walk execsise(1 KM per egg).
 
 evolve rules for smart contract 1: 
-![LINK8](/DAPP/IMG_2238.JPG)
+![LINK8](./DAPP/IMG_2238.JPG)
  
 Dinosaur egg + Dinosaur can evolve to new type Dinosaur 
 Ester egg + Easter Bunny can evolve to new type Bunny
