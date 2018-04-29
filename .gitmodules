@@ -13,3 +13,6 @@
 	path = Homeward
 	url = https://github.com/shaguftasayani/Homeward
 	branch = master
+[submodule "PreAuthorized-Debit"]
+	path = PreAuthorized-Debit
+	url = https://github.com/MetalMonocle/PreAuthorized-Debit.git
