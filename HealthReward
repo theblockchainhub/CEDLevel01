@@ -1,0 +1,20 @@
+pragma solidity ^0.4.11;
+
+contract HealthRewardToken {
+   
+mapping (address => uint) public coinBalanceOf;
+event CoinTransfer(address sender, address receiver, uint Balance);
+   
+ /* Rewards  will be transfered from Lomi Token */
+ /* Sender is Lomi Contract Address (0xb21793ff5ad683076778304a43c3e2b96def6c27) */
+ /* One lomi token for each 1000 steps */
+   function sendCoin(address receiver, uint steps) returns(bool sufficient) {
+       if (steps>=1000)
+       uint Balance = steps/1000;
+       if (coinBalanceOf[msg.sender] < Balance) return false;
+       coinBalanceOf[msg.sender] -= Balance;
+       coinBalanceOf[receiver] += Balance;
+       CoinTransfer(msg.sender, receiver, Balance);
+       return true;
+   }
+}
